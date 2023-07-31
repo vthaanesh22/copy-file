@@ -6,21 +6,28 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
-### Step 2: 
- 
-### Step 3: 
-
-### Step 4:  
-
-### Step 5: 
-
-### Step 6: 
-
+open a text file as a read mode
+## Step 2:
+open another text file as a write mode
+## Step 3:
+read a text file
+## step 4:
+And write it in a text file
+## Step 5:
+End the program
 ## PROGRAM:
+## DEVELOPD BY:V.Thaanesh
+## REG.NO: 23003843
+```
+f = open('/content/drive/MyDrive/Colab Notebooks/thanesh.txt','r')
+a=open("/content/drive/MyDrive/Colab Notebooks/thanesh.txt","r")
+b=open("/content/drive/MyDrive/Colab Notebooks/sharp.txt","w")
+f=a.read()
+g=b.write(f)
 
+```
 ### OUTPUT:
-
+![output](/Screenshot%202023-07-31%20102804.png)
 
 
 ## RESULT:
