@@ -16,8 +16,9 @@ And write it in a text file
 ## Step 5:
 End the program
 ## PROGRAM:
-## DEVELOPD BY:V.Thaanesh
-## REG.NO: 23003843
+DEVELOPD BY:V.Thaanesh
+
+REGISTER.NO: 23003843
 ```
 f = open('/content/drive/MyDrive/Colab Notebooks/thanesh.txt','r')
 a=open("/content/drive/MyDrive/Colab Notebooks/thanesh.txt","r")
